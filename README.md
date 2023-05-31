@@ -1,0 +1,5 @@
+- Hello. 
+- You're in my profile.
+- Do you need something?
+- Party?
+- Ok.
