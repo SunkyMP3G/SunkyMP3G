@@ -1,6 +1,4 @@
-- Hello. 
-- You're in my profile.
-- Do you need something?
-- Party?
-- Ok.
-- Wait till 10th April 3023...
+> I'm taking too long.
+
+- It's okay to take too long.
+- your taking too long IS TAKING TOO LONG
